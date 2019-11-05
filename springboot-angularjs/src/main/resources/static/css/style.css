@@ -264,7 +264,7 @@ div#preloader {
   left: 0;
   width: 100%;
   height: auto;
-  background: rgba(0, 0, 0, 0.40);
+  background: rgba(0, 0, 0, 0.60);
   z-index: 9;
 }
 
@@ -299,9 +299,16 @@ div#preloader {
 }
 
 .main-menu ul.navbar-nav li.active a:hover {
-  background: none;
-  color: #fff;
+  
+	background-color: rgba(255,255,255,0.25);
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+	-webkit-transform: scale(0.5,0.5);
+	transform: scale(0.6,0.6);
 }
+
 
 .main-menu ul.navbar-nav li.active a:focus {
   color: #fff;
@@ -309,12 +316,18 @@ div#preloader {
 
 .main-menu ul.navbar-nav li.active a {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  color: #fff;
+  color: white;
   position: relative;
 }
 
 .main-menu ul.navbar-nav li a:hover {
-  color: #3EC1D5;
+  background-color: rgba(255,255,255,0.25);
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+	-webkit-transform: scale(0.5,0.5);
+	transform: scale(0.6,0.6);
 }
 
 .navbar {
@@ -328,7 +341,7 @@ div#preloader {
 
 .main-menu ul.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
   background: none;
-  color: #333;
+  color: #fff;
 }
 
 .navbar-default .navbar-toggle {
