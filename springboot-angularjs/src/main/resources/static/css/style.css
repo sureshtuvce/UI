@@ -1817,9 +1817,7 @@ div#preloader {
   text-transform: uppercase;
 }
 
-.footer-logo {
-  padding-bottom: 20px;
-}
+
 
 .footer-logo h2 {
   color: #222;
@@ -1834,32 +1832,6 @@ div#preloader {
   color: #3ec1d5;
 }
 
-.footer-icons ul li {
-  display: inline-block;
-}
-
-.footer-icons ul li a {
-  border: 1px solid #444;
-  color: #444;
-  display: block;
-  font-size: 16px;
-  height: 40px;
-  line-height: 38px;
-  margin-right: 5px;
-  text-align: center;
-  width: 40px;
-  border-radius: 50%;
-}
-
-.flicker-img>a {
-  float: left;
-  padding: 1px;
-  width: 33.33%;
-}
-
-.footer-icons {
-  margin-top: 30px;
-}
 
 .footer-contacts p span {
   color: #3EC1D5;
@@ -1876,34 +1848,17 @@ div#preloader {
   bottom: 0px;
 }
 
-.popular-tag ul li a:hover,
-.footer-icons ul li a:hover {
-  background: #3EC1D5;
-  border: 1px solid #3EC1D5;
-  color: #fff;
-}
-
-.popular-tag ul li a {
-  border: 1px solid #444;
-  border-radius: 30px;
-  color: #444;
-  display: block;
-  font-size: 13px;
-  font-weight: 600;
-  margin: 5px 3px;
-  padding: 5px 10px;
-  position: relative;
-  text-decoration: none;
-  text-transform: capitalize;
-  transition: all 0.4s ease 0s;
-  width: 70px;
-  text-align: center;
-}
 
 .footer-area-bottom {
   background: #f1f1f1 none repeat scroll 0 0;
   padding: 15px 0;
   bottom: 0;
+
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
 }
 
 .copyright-text a:hover {
