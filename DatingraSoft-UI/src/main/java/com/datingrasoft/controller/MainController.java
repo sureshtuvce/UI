@@ -1,4 +1,4 @@
-package com.javacodegeeks.examples.controller;
+package com.datingrasoft.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
