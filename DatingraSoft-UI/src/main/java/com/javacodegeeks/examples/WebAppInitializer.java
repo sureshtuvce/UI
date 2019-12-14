@@ -8,10 +8,9 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @EnableAutoConfiguration
 @ComponentScan("com.javacodegeeks.examples")
-public class WebAppInitializer{
+public class WebAppInitializer {
 
-    public static void main(String[] args) throws Exception{
-        SpringApplication.run(WebAppInitializer.class, args);
-    }
+	public static void main(String[] args) throws Exception {
+		SpringApplication.run(WebAppInitializer.class, args);
+	}
 }
-
