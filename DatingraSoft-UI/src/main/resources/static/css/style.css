@@ -526,16 +526,21 @@ div#preloader {
   color: #444;
   display: block;
   padding: 5px 0;
+  font-size: 14px;
+  font-weight: 500;
 }
 
 .single-well ul li i {
   color: #3EC1D5;
   padding-right: 10px;
-  font-size: 12px;
+  font-size: 14px;
+  font-weight: 500;
 }
 
 .single-well p {
   color: #444;
+  font-size: 14px;
+  font-weight: 500;
 }
 
 /*--------------------------------*/
@@ -582,6 +587,7 @@ div#preloader {
 .single-services>p {
   color: #333;
   font-size: 14px;
+  font-weight: 500;
 }
 
 /*----------------------------------------
@@ -605,6 +611,7 @@ div#preloader {
 
 .progress-h4 {
   color: #fff;
+  font-size: 14px;
   font-weight: 500;
 }
 
@@ -1709,14 +1716,16 @@ div#preloader {
   height: 140px;
   padding: 20px;
   width: 100%;
+    font-size: 14px;
+  font-weight: 500;
 }
 
 .contact-form button[type="submit"] {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
   border: 1px solid #ccc;
   color: #444;
-  font-size: 16px;
-  font-weight: 700;
+  font-size: 14px;
+  font-weight: 500;
   margin-top: 8px;
   padding: 12px 30px;
   text-transform: uppercase;
@@ -1760,8 +1769,8 @@ div#preloader {
   color: red;
   display: none;
   margin: 0 0 20px;
-  font-weight: 400;
-  font-size: 13px;
+  font-weight: 500;
+  font-size: 14px;
 }
 
 .single-icon i {
@@ -1775,7 +1784,8 @@ div#preloader {
 }
 
 .single-icon p {
-  font-size: 16px;
+  font-size: 14px;
+  font-weight: 500;
   line-height: 30px;
 }
 
