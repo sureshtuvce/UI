@@ -308,14 +308,7 @@ div#preloader {
   letter-spacing: 1px;
 }
 
-.main-menu ul.navbar-nav li.active>a::after {
-  border: 1px solid #fff;
-  bottom: 0px;
-  content: "";
-  left: 0;
-  position: absolute;
-  width: 100%;
-}
+
 
 .main-menu ul.navbar-nav li.active a:hover {
 
@@ -429,11 +422,15 @@ div#preloader {
 
 .stick .navbar-header a.navbar-brand {
   display: inline-block;
-  height: 90px;
+  height: 70px;
+  padding: 15px 0;
 }
 
 .stick .navbar-brand>img {
   display: none;
+  display: inline-block;
+  height: 70px;
+  padding: 15px 0;
 }
 
 .stick .navbar-brand.sticky-logo>img {
