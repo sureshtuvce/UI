@@ -290,7 +290,7 @@ div#preloader {
 .navbar-header a.navbar-brand {
   display: inline-block;
   height: 70px;
-  padding: 15px 0;
+  padding: 30px 0;
 }
 
 .main-menu ul.navbar-nav li {
@@ -2601,7 +2601,7 @@ html,body{
 .navbar-brand,
 .navbar-brand:hover,
 .navbar-brand:focus{
-	margin-top: 33px;
+	margin-top: 0px;
 	padding:0;
 }/* navbar-brand */
 
@@ -2621,7 +2621,7 @@ html,body{
 }
 
 .sticky  .navbar-brand{
-	margin-top:20px;
+	margin-top:0px;
 }
 .sticky  .navbar-default .navbar-nav li a,
 .sticky  .navbar-default .navbar-nav li a:active,
@@ -2648,7 +2648,7 @@ html,body{
 .navbar-default .navbar-nav li a{
 	font-size: 16px;
 	color: #fff;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	margin-top:18px;
 	padding-left: 27px;
 	-webkit-transition: .5s; 
@@ -2676,7 +2676,7 @@ html,body{
 	background:transparent;
     color: #fff;
 	font-weight:700;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	margin-top:18px;
 	padding-bottom: 25px;
 	padding-left: 27px;
@@ -2750,7 +2750,7 @@ html,body{
 	font-weight:500;
 	line-height: 1.28;
 	margin-bottom: 27px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Poppins', sans-serif;
 	text-transform: capitalize;
 }
 .single-slide-item p {
@@ -2911,7 +2911,7 @@ html,body{
 .section-header h2{
 	color: #44454f;
 	font-size: 30px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Lato', sans-serif;
 	font-weight: 700;
 }
 .section-header h2 span{
@@ -2920,7 +2920,7 @@ html,body{
 .section-header p{
 	color: #888;
 	font-size: 16px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lato', sans-serif;
 	max-width: 1000px;
     margin: 0 auto;
     margin-top: 32px;
@@ -2954,7 +2954,7 @@ html,body{
 }
 /* we-do-info */
 .we-do-info {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Lato', sans-serif;
 	text-transform: capitalize;
 }
 .we-do-img {
@@ -3075,13 +3075,13 @@ html,body{
 .service-txt h2 a{
 	color:#44454f;	
 	font-size:24px;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Lato', sans-serif;
 	padding: 47px 0 25px;
 }
 .service-txt p {
 	color:#756c6a;	
 	font-size:16px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lato', sans-serif;
 	line-height: 1.67;
 }
 a.service-btn,
@@ -3090,7 +3090,7 @@ a:hover.service-btn,
 a:focus.service-btn{
 	color: #7370d8;
     font-size:16px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lato', sans-serif;
     text-transform: capitalize;
     margin-top:12px;
     margin-bottom: 15px;
@@ -3133,13 +3133,13 @@ a:focus.service-btn{
 .statistics-content .counter{
 	color:#fff;
 	font-size:32px;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 .statistics-content h3{
 	color:#fff;
 	font-size:20px;
 	text-transform:capitalize;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Lato', sans-serif;
 	margin-top: 9px;
 	line-height: 1.5;
 }
