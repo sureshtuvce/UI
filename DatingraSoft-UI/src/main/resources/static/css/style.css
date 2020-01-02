@@ -658,7 +658,7 @@ img {
 
 .faq-details a span.acc-icons::before {
   color: #333;
-  content: "";
+  content: "ï„…";
   font-family: fontawesome;
   font-size: 24px;
   height: 40px;
@@ -676,7 +676,7 @@ img {
 }
 
 .faq-details a.active span.acc-icons::before {
-  content: "";
+  content: "ï„‡";
   font-family: fontawesome;
   font-size: 24px;
   height: 40px;
@@ -4032,7 +4032,7 @@ a:active.learn-btn{
 .hm-foot-para p.para-news{
 	color:#aaa;
 	font-size:15px;
-	font-family: 'Lato', sans-serif;
+	font-family: 'Poppins', sans-serif;
 	text-transform: initial;
     max-width: 263px;
     padding-top: 3px;
