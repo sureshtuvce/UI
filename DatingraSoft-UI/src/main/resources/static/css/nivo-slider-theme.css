@@ -13,8 +13,48 @@ Supports Thumbs: true
   color: #fff;
   position: relative;
   text-align: center;
+  margin-left: 60px;
+    margin-right: 60px;
+  margin-top: 80px;
+  
+}
+.floatleft {
+  float: left;
 }
 
+.floatright {
+  float: right;
+}
+
+.alignleft {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+
+.alignright {
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.aligncenter {
+  display: block;
+  margin: 0 auto 15px;
+}
+
+a:focus {
+  outline: 0px solid;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.fix {
+  overflow: hidden;
+}
 .slider-content {
   padding: 180px 60px;
 }
@@ -23,6 +63,8 @@ Supports Thumbs: true
   background: #444 none repeat scroll 0 0;
   content: "";
   height: 100%;
+    margin-right: 15px;
+  margin-bottom: 15px;
   left: 0;
   opacity: 0.5;
   position: absolute;
