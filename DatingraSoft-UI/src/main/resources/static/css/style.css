@@ -438,14 +438,17 @@ div#preloader {
 .stick .main-menu ul.navbar-nav li a:hover {
   color: #3EC1D5;
 }
+.main-menu ul.navbar-nav li a:hover {
+  color: #3EC1D5;
+}
 .stick .mainmenu ul#nav>li:hover>a, .stick .mainmenu ul#nav li .mega-menu, .stick .mainmenu ul#nav li ul.sub-menu {
   background-color: #f5f5f5;
-  color: #fff;
+  color: #3EC1D5;
   outline: medium none;
 }
 
 .stick .mainmenu ul#nav li:hover ul.sub-menu li a:hover, .mainmenu ul#nav li .mega-menu span>a:hover, .stick .mainmenu ul#nav li .mega-menu-shop a.mega-menu-title:hover {
-  color: #fff;
+  color: #3EC1D5;
 }
 
 .stick .logo {
