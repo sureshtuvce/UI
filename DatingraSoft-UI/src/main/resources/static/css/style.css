@@ -931,6 +931,7 @@ div#preloader {
 .footer-area {
   padding: 40px 0;
   background: #f9f9f9;
+  
 }
 
 .footer-head p {
@@ -1028,7 +1029,12 @@ div#preloader {
 
 .footer-area-bottom {
   background: #f1f1f1 none repeat scroll 0 0;
-  padding: 15px 0;
+  padding: 15px 0;  
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
 }
 
 .copyright-text a:hover {
